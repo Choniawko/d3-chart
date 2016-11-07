@@ -1,0 +1,16 @@
+.red {
+    color: red;
+}
+
+.chart {
+    background: lightgray;
+    border: black solid 1px;
+    
+}
+
+rect {
+    fill: steelblue;
+}
+rect:hover {
+    fill: turquoise;
+}
